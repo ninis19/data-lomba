@@ -1,0 +1,90 @@
+Dimension,Code,Description
+Activity,ISIC4_A,"Agriculture, forestry and fishing"
+Activity,NONAGR,Non-agriculture
+Activity,TOTAL,No breakdown
+Age,10-17,10 to 17 years old
+Age,15+,15 years old and over
+Age,15-24,15 to 24 years old
+Age,25+,25 years old and over
+Age,5-14,5 to 14 years old
+Age,5-17,5 to 17 years old
+Age,6-17,6 to 17 years old
+Age,7-17,7 to 17 years old
+Disability status,_T,No breakdown by disability
+Disability status,PD,Persons with disability
+Disability status,PWD,Persons without disability
+Education level,_T,Total or not breakdown
+Education level,AGG_0_1,Primary education or less
+Education level,AGG_GE2,Secondary education or above
+Location,ALLAREA,All areas
+Location,RURAL,Rural
+Location,URBAN,Urban
+Migratory status,_T,No breakdown
+Migratory status,EUMIG,EU Migrants
+Migratory status,MIGPER,Migrants
+Migratory status,NONEUMIG,Non-EU Migrants
+Migratory status,NONMIG,Non-migrant
+Nature,C,Country data
+Nature,CA,Country adjusted data
+Nature,E,Estimated data
+Nature,G,Global monitoring data
+Nature,M,Modeled data
+Observation Status,A,Normal value
+Observation Status,U,Low reliability
+Quantile,_T,Total (national average) or no breakdown
+Quantile,B40,Bottom 40%
+Quantile,R60,Richest 60%
+Reporting Type,G,Global
+Sex,_O,Other
+Sex,BOTHSEX,Both sexes
+Sex,FEMALE,Female
+Sex,MALE,Male
+Type of occupation,_T,No breakdown
+Type of occupation,isco08-0,Armed forces occupations (isco-08)
+Type of occupation,isco08-1,Managers (isco-08)
+Type of occupation,isco08-2,Professionals (isco-08)
+Type of occupation,isco08-3,Technicians and associate professionals (isco-08)
+Type of occupation,isco08-4,Clerical support workers (isco-08)
+Type of occupation,isco08-5,Service and sales workers (isco-08)
+Type of occupation,isco08-6,"Skilled agricultural, forestry and fishery workers (isco-08)"
+Type of occupation,isco08-7,Craft and related trades workers (isco-08)
+Type of occupation,isco08-8,"Plant and machine operators, and assemblers (isco-08)"
+Type of occupation,isco08-9,Elementary occupations (isco-08)
+Type of occupation,isco08-X,Not elsewhere classified (isco-08)
+Type of occupation,isco88-0,Armed forces (isco-88)
+Type of occupation,isco88-1,"Legislators, senior officials and managers (isco-88)"
+Type of occupation,isco88-2,Professionals (isco-88)
+Type of occupation,isco88-3,Technicians and associate professionals (isco-88)
+Type of occupation,isco88-4,Clerks (isco-88)
+Type of occupation,isco88-5,Service workers and shop and market sales workers (isco-88)
+Type of occupation,isco88-6,Skilled agricultural and fishery workers (isco-88)
+Type of occupation,isco88-7,Craft and related trades workers (isco-88)
+Type of occupation,isco88-8,Plant and machine operators and assemblers (isco-88)
+Type of occupation,isco88-9,Elementary occupations (isco-88)
+Type of occupation,isco88-X,Not elsewhere classified (isco-88)
+Type of product,ALP,Total or no breakdown
+Type of product,BIM,Biomass
+Type of product,COL,Coal
+Type of product,CPR,Crop residues
+Type of product,CRO,Crops
+Type of product,FEO,Ferrous ores
+Type of product,FOF,Fossil fuels
+Type of product,GAS,Natural gas
+Type of product,GBO,Grazed biomass and fodder crops
+Type of product,MEO,Metal ores
+Type of product,NFO,Non-ferrous ores
+Type of product,NMA,Non-metallic minerals - industrial or agricultural dominant
+Type of product,NMC,Non-metallic minerals - construction dominant
+Type of product,NMM,Non-metallic minerals
+Type of product,ONT,Oil shale and tar sands
+Type of product,PET,Petroleum
+Type of product,WCH,Wild catch and harvest
+Type of product,WOD,Wood
+Units,CON_USD,Constant USD
+Units,CUR_LCU,Current local currency
+Units,KG_PER_CON_USD,Kilograms per constant USD
+Units,PER_100000_EMP,"Per 100,000 employees"
+Units,PER_100000_POP,"Per 100,000 population"
+Units,PERCENT,Percentage
+Units,SCORE,Score
+Units,TONNES,Tonnes
